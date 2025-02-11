@@ -1,0 +1,19 @@
+body{
+    font-family: "Oswald", serif;
+}
+h1{
+    font-size: 50px;
+}
+.name-highlight{
+    color: blue;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 2%;
+    padding-left: 2%;
+}
+.half-widthimg{
+
+    width: 100%;
+}
